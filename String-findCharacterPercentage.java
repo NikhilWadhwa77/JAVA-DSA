@@ -1,5 +1,16 @@
 import java.util.*;
 
+// we need to find the percentage of different type of characters in a string
+// example:
+// 
+// input:
+// abcde12345678^%^%&%
+// 
+// output:
+// Characters :30%
+// Special Characters :30%
+// Numbers :40%
+
 public class CharPercentage {
 
 	public static void main(String[] args) {
